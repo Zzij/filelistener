@@ -1,0 +1,6 @@
+<config name="config">
+	<!-- 录音存放地址-->
+	<variable name="address">
+		/home/nv/recordings
+	</variable>
+</config>

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: user
+Class-Path: lib/log4j-1.2.14.jar lib/commons-io-2.6.jar ./
+Build-Jdk: 1.8.0_73
+Created-By: Maven Integration for Eclipse
+Main-Class: filelistener.Main
+
